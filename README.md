@@ -1,2 +1,7 @@
 # kontostwo.github.io
-Blog
+## Battle Critters
+ - Multithreading
+ - GPU vertex animations
+ - ECS memory layout
+ - SIMD data types and operations
+ - Branchless Programming
