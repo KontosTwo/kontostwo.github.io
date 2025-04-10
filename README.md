@@ -7,3 +7,5 @@ The tech blog of an RTS game that allows you to design and fight battles where y
  - ECS memory layout
  - SIMD data types and operations
  - Branchless Programming
+ - Formation Smart Rebalancing
+ - Unit Destination Visualizer
